@@ -1,5 +1,4 @@
 #!groovy
-// Check node1 properties
 properties([disableConcurrentBuilds()])
 
 pipeline {
